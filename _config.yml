@@ -1,0 +1,78 @@
+# Site settings
+site: Dealog
+title: Dealog - Daily Log By Dea Afrizal
+keywords: dea afrizal, dealog
+description: >-
+  Dealog - Daily Log By Dea Afrizal
+lang: id-ID
+timezone: Asia/Jakarta
+repo: https://blog.deaafrizal.com/ # site repo [optional]
+google_verify: XXX # Put your Google Verification here
+google_analytics: UA-XXXXXXXX-00 # Put your Google Analytics code
+discus-identifier: XXX
+
+# Author settings
+author:
+  name: Dea Afrizal
+  bio: Tech Influencer <br> Ngoding Dulu, Jagonya Belakangan
+  picture: assets/images/dealog.png
+  github: deaaprizal # github username
+  twitter: # twitter username
+  facebook: # facebook username
+  instagram: dea.afrizal # instagram username
+  youtube: https://youtube.com/@deaafrizal # youtube username
+  linkedin: # linkedin username
+  email: deacode@icloud.com # email adress
+
+# URL settings
+url: "https://blog.deaafrizal.com/" # Domain Name of host. [username].github.io for github pages
+permalink: pretty
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+exclude:
+  - .jekyll-cache
+  - .obsidian
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
+  - CONTRIBUTING.md
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-relative-links
+paginate: 20
+paginate_path: "/page/:num"
+
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /:path
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+relative_links:
+  enabled: true
+  collections: false
