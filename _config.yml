@@ -1,31 +1,31 @@
 # Site settings
-site: Dealog
-title: Dealog - Daily Log By Dea Afrizal
-keywords: dea afrizal, dealog
+site: Mylog
+title: Mylog - Daily Log By Marzuki
+keywords: marzuki, mylog
 description: >-
-  Dealog - Daily Log By Dea Afrizal
+  Mylog - Daily Log By Marzuki
 lang: id-ID
 timezone: Asia/Jakarta
-repo: https://blog.deaafrizal.com/ # site repo [optional]
+repo: https://utaramas.github.io/pageone/ # site repo [optional]
 google_verify: XXX # Put your Google Verification here
 google_analytics: UA-XXXXXXXX-00 # Put your Google Analytics code
 discus-identifier: XXX
 
 # Author settings
 author:
-  name: Dea Afrizal
-  bio: Tech Influencer <br> Ngoding Dulu, Jagonya Belakangan
+  name: Marzuki
+  bio: Hotel Affiliator <br> Posting Dulu, $$$$$$ Belakangan
   picture: assets/images/dealog.png
-  github: deaaprizal # github username
+  github: utaramas # github username
   twitter: # twitter username
   facebook: # facebook username
-  instagram: dea.afrizal # instagram username
-  youtube: https://youtube.com/@deaafrizal # youtube username
+  instagram: marzuki_id # instagram username
+  youtube: https://youtube.com/ # youtube username
   linkedin: # linkedin username
-  email: deacode@icloud.com # email adress
+  email: marzuki147@gmail.com # email adress
 
 # URL settings
-url: "https://blog.deaafrizal.com/" # Domain Name of host. [username].github.io for github pages
+url: "https://utaramas.github.io/pageone/" # Domain Name of host. [username].github.io for github pages
 permalink: pretty
 
 markdown: kramdown
