@@ -18,9 +18,9 @@ Facebook Grup berpeluang meningkatkan cuan tak terbatas
 
 ![Apa Keuntungan Membuat Grup di Facebook?](/pageone/assets/images/Apa-keuntungan-membuat-grup-di-Facebook.png)
 
-*Grup Facebook ternyata memiliki banyak manfaat. Kalau kamu seorang internet marketer, fitur lawas situs pertemanan terbesar di dunia ini perlu kamu pertimbangkan untuk digunakan sebagai salah satu channel untuk keperluan mengdapatkan cuan. Ini salah satu jet dunia maya yang bisa kamu optimalkan*
+<u>Grup Facebook ternyata memiliki banyak manfaat. Kalau kamu seorang internet marketer, fitur lawas situs pertemanan terbesar di dunia ini perlu kamu pertimbangkan untuk digunakan sebagai salah satu channel untuk keperluan mengdapatkan cuan. Ini salah satu jet dunia maya yang bisa kamu optimalkan</u>
 
-*Mungkin mimin termasuk yang agak kontroversial dalam menulis artikel ini bahwa syarat monetisasi group facebook tidak diperlukan member dengan jumlah tertentu. Mengapa? sebab kita akan melakukan monetisasi group facebook bukan lewat jalur formal dari Facebook.*
+**Mungkin mimin termasuk yang agak berbeda dalam menulis artikel ini bahwa syarat monetisasi group facebook tidak diperlukan member dengan jumlah tertentu. Mengapa? sebab kita akan melakukan monetisasi group facebook bukan lewat jalur formal dari Facebook.**
 
 ### Cara mendapatkan cuan lewat Facebook
 
@@ -49,5 +49,5 @@ Kita akan melakukan monet FB grup melalui antara lain sebagai berikut:
 9. Setiap posting, sebaiknya dimulai dengan kata kunci. Maksimalkan 155 karakter pertama.
 10. Perbanyak share grup kamu di grup Fb lain yang bersifat publik serta ke media sosial lainnya.
 
-Demikianlah artikel mengenai keuntungan membuat grup di Facebook, semoga kamu bisa mengambil manfaatnya.
+Demikianlah artikel mengenai apa keuntungan membuat grup di Facebook, semoga kamu bisa mengambil manfaatnya.
 
