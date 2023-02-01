@@ -3,7 +3,7 @@ title: "Apa Keuntungan Membuat Grup di Facebook?"
 date: 2023-02-02T00:00:00+00:00
 author: marzuki
 layout: post
-permalink: apa-keuntungan-membuat-grup-di-facebook/3
+permalink: "apa-keuntungan-membuat-grup-di-facebook/3"
 categories: experiment
 tags: [facebook, jekyll]
 ---
