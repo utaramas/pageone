@@ -5,7 +5,9 @@ author: marzuki
 layout: post
 permalink: "apa-keuntungan-membuat-grup-di-facebook/3"
 categories: experiment
-tags: [facebook, jekyll]
+tags: 
+- facebook
+- jekyll
 ---
 {% highlight c %}
 Facebook Grup berpeluang meningkatkan cuan tak terbatas
