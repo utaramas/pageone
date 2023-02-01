@@ -22,7 +22,7 @@ Facebook Grup berpeluang meningkatkan cuan tak terbatas
 
 **Mungkin mimin termasuk yang agak berbeda dalam menulis artikel ini bahwa syarat monetisasi group facebook tidak diperlukan member dengan jumlah tertentu. Mengapa? sebab kita akan melakukan monetisasi group facebook bukan lewat jalur formal dari Facebook.**
 
-### Cara mendapatkan cuan lewat Facebook
+### Cara mendapatkan cuan Rp lewat grup Facebook
 
 Kita akan melakukan monet FB grup melalui antara lain sebagai berikut:
 
