@@ -5,7 +5,7 @@ title: Kupas Tuntas Facebook Marketing Bagian 1
 
 Cara posting jualan di Facebook secara murah meriah. Ada loh rahasia melejitkan penjualan produk/jasa dengan manfaatkan fitur Facebook Marketing gratisan yang jarang dibongkar.
 
-Mari kita kupas permasalahan Facebook Marketing.
+**Mari kita kupas permasalahan Facebook Marketing.**
 
 ![Cara Posting Jualan di Facebook - Tips Posting Jualan di FB]({{ site.baseurl }}/images/Cara-Posting-Jualan-di-Facebook-Tips-Posting-Jualan-1024x536.png)
 
@@ -19,13 +19,13 @@ Keempat, kocek untuk mengikuti biaya pelatihan cara beriklan pada facebook mulai
 
 Kelima, setelah mengikuti kelas / workshop, pengeluaran dari para nubi tersedot lagi oleh company international pembuat aplikasi untuk membayar biaya iklan. Berbahagia sekali jika kampanye yang kamu jalankan gak BONCOS.
 
-Mari kita balikan keadaan tersebut. Kalau bisa GRATIS kenapa harus BAYAR? Kalau bisa ORGANIK mengapa harus BERIKLAN?
+***Mari kita balikan keadaan tersebut. Kalau bisa GRATIS kenapa harus BAYAR? Kalau bisa ORGANIK mengapa harus BERIKLAN?***
 
 Pertama, dengan menggunakan fitur facebook gratisan saja sudah lebih dari cukup untuk menghasilkan pundi-pundi rupiah untuk jualan kamu. Beruntung banget kalau kamu mampir pada blog ini, sebab tulisan ini merupakan pengalaman langsung yang sudah mimin rasakan sendiri, alias bukan kata orang lain.
 
 Kedua, kelebihan cara yang akan mimin berikan ini adalah 100 % GRATISSS, yang bisa cepat teraplikasikan bahkan bagi mereka yang belum terlalu melek teknologi aka gaptek.
 
-Cara posting jual beli di Facebook menggunakan FansPage
+***Cara posting jual beli di Facebook menggunakan FansPage***
 
 Pertama, kita akan menggunakan kekuatan halaman / fanpage untuk menjual produk / jasa yang kita miliki, sehingga pembeli akan mudah menemukan iklan gratisan kita.
 
@@ -35,4 +35,4 @@ Ketiga, bagi kamu yang sudah jenuh belum mempelajari SEO, halaman facebook yang 
 
 Keempat, bisa-bisa kamu akan kaget dengan hasil yang terjadi. Inilah yang jarang terbahas oleh pelaku internet marketer tanah air. Dengan biaya nyaris 0 rupiah, postingan kamu akan relatif permanen berada pada halaman facebook dan halaman Google.
 
-Bersambung ke bagian 2 ......
+***Bersambung ke bagian 2 ......***
