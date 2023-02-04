@@ -10,7 +10,7 @@ permalink: /tags/
 	<div class="tags">
 		{% for item in (0..site.tags.size) %}{% unless forloop.last %}
 		{% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
-			<a href="pageone/tags/#{{ this_word | cgi_escape }}" class="tag">{{ this_word }} <span>({{ site.tags[this_word].size }})</span></a>
+			<a href="tags/#{{ this_word | cgi_escape }}" class="tag">{{ this_word }} <span>({{ site.tags[this_word].size }})</span></a>
 		{% endunless %}{% endfor %}
 	</div>
 </div>
@@ -21,7 +21,7 @@ permalink: /tags/
 
 	{% for post in site.tags[this_word] %}{% if post.title != null %}
 	    <div class="post-list">
-            <a class="post-title" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+            <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
             <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date: "%d.%m.%Y" }}</time>
         </div>
 	{% endif %}{% endfor %}
