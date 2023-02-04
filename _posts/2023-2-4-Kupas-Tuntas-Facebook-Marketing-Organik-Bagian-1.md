@@ -2,6 +2,9 @@
 layout: post
 title: Kupas Tuntas Facebook Marketing Bagian 1
 categories: marketing
+tags:
+- facebook
+- piranhamas
 ---
 
 Cara posting jualan di Facebook secara murah meriah. Ada loh rahasia melejitkan penjualan produk/jasa dengan manfaatkan fitur Facebook Marketing gratisan yang jarang dibongkar.
