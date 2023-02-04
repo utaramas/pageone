@@ -18,11 +18,11 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: marzuki147@gmail.com
+  facebook: marzuki.biz
   flickr:
   github: utaramas/pageone
-  instagram:
+  instagram: marzuki_id
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
@@ -76,7 +76,6 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-  - jekyll-paginate
 
 # Exclude these files from your production _site
 exclude:
@@ -85,7 +84,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
-# Define Pagination in configuration
-paginate: 6
-paginate_path: /page:num/
