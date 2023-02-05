@@ -10,7 +10,7 @@ tags:
 
 Puih, lelahnya belajar github sendirian. Kali ini mimin mau share pengalaman belajar Github secara otodidak. Sekitar sebulan terakhir mimin utak-atik lagi localhost, github, vs code, wamp server, youtube, ccleaner, docker compose, wordpress, git bash, ubuntu, setelah sekian lama vakum. Cukup menantang juga sih.
 
-![pengalamanbelajargithubotodidak]({{ site.baseurl }}/images/pengalaman-belajar-github-otodidak-1024x535.png)
+![pengalaman belajar github secara otodidak]({{ site.baseurl }}/images/pengalaman-belajar-github-otodidak-1024x535.png)
 
 Postingan ini juga untuk menambah commit baru di github ya 🙂
 

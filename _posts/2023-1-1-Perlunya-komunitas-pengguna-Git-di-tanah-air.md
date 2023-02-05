@@ -9,7 +9,7 @@ tags:
 
 Lumayan menantang memang menggunakan Github buat pemula seperti saya.
 
-![pengalamanbelajargithubotodidak]({{ site.baseurl }}/images/pengalaman-belajar-github-otodidak-1024x535.png)
+![Perlunya komunitas pengguna Git di tanah air]({{ site.baseurl }}/images/pengalaman-belajar-github-otodidak-1024x535.png)
 
 Mimin belum tahu ada atau tidaknya komunitas pengguna Git di Indonesia. Paling tidak kalau kamu menemukan masalah ada tempat buat bertanya dan berdiskusi.
 
