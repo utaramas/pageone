@@ -1,3 +1,11 @@
+---
+layout: post
+title: Pengalaman Akun Github Tersuspend
+categories: marketing
+tags:
+- github
+---
+
 Mungkin akibat terlalu sering melakukan perintah git add, git commit dan git push, akhirnya akun github mimin tersuspen. Tahukan berapa banyak koding wordpress? mimin pernah melakukan upload ke repositori satu per satu. Mungkin dikira spam ya 🙁
 
 ![Pengalaman Akun Github Tersuspend]({{ site.baseurl }}/images/pengalaman-belajar-github-otodidak-1024x535.png)
