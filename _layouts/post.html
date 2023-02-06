@@ -25,11 +25,11 @@ layout: default
   Baca juga:
   {% if page.previous %}
   <a class="prev" href="{{ page.previous | relative_url }}"
-    >< {{ page.previous.title }}</a
-  > ---
+    >> {{ page.previous.title }}</a
+  > <--->
   {% endif %} {% if page.next %}
   <a class="next" href="{{ page.next | relative_url }}"
-    >{{ page.next.title }} ></a
+    < {{ page.next.title }} ></a
   >
   {% endif %}
 </div>
