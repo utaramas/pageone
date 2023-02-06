@@ -31,6 +31,7 @@ Ribuan jam sudah terlewati, ribuan rupiah untuk sewa domain & hosting. Belum lag
 Belum beruntung menemukan komunitas & mentor yang tepat, namun medium inilah yang menjadi “passion” saya. Jadi teringat podcast dari mas Sabrang tentang Passion.
 
 **Proses update blog jadi relatif lebih mudah**
+
 Ketika “rahasia” muncul pada hasil SERP sudah sedikit terbuka, bahkan sangat sederhana tanpa perlu proses yang njelimet, saya yakin bisa rutin menambah posting secara teratur. Benar kata bang Ridho Putradi S’gara Search Agency bahwa jumlah kata bukan parameter sebuah tulisan muncul di SERP.
 
 **Percayalah It Work**
