@@ -53,4 +53,8 @@ Impressum : WA 0859-3007-0222 – Jasa supir Cibubur, Jasa sopir Cibubur, Jasa s
 
 Produk : WA 0859-3007-0222 – Jasa Supir Cibubur, Jasa Sopir Cibubur, Jasa Supir Harian Cibubur, Jasa Sopir Harian Cibubur, driver harian, sopir harian, supir pribadi harian, pengemudi harian, untuk membantu pelanggan yang sedang membutuhkan sopir secara dadakan. Kami tidak menyiapkan mobil.
 
+Saat sudah upload foto profil, klik pada foto profil, isi kata kunci, masukkan alt ext dan lokasi.
+
+Lalu setelah upload foto cover / sampul, klik pada foto sampul, edit, isi keyword, masukkan alt ext dan lokasi.
+
 ***Bersambung ke bagian 3...***
