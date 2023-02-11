@@ -21,7 +21,7 @@ Disamping itu banyak marketer tidak menarget copywriting promosi mereka untuk ke
 
     Contoh : Kamu ketik di Google, grup facebook jual beli mobil tua bandung. Nah hasil yang keluar menandakan grup tersebut sudah terindex oleh Google.
 
-2. Misalnya kamu mau menjual mobil Grand Livina 2012 Matic, trus kamu ketik di Google grand livina 2012 matic, lalu perhatikan hasil pencarian yang muncul, tapi gak perlu tekan **ENTER** ya. Nanti akan muncul kata kunci yang dicari contohnya sebagai berikut:
+2. Misalnya kamu mau menjual mobil Grand Livina 2012 Matic, trus kamu ketik di Google: grand livina 2012 matic, tapi gak perlu tekan **ENTER** ya, lalu perhatikan kata kunci yang muncul, contohnya sebagai berikut:
 
     - grand livina 2012 matic
     - grand livina 2012 matic bandung
@@ -30,10 +30,10 @@ Disamping itu banyak marketer tidak menarget copywriting promosi mereka untuk ke
     - spesifikasi grand livina 2012 matic
     - grand livina hws 2012 matic
     - grand livina sv 2012 matic
-    - **jual grand livina 2012 matic bandung**
+    - ***jual grand livina 2012 matic bandung***
     - grand livina th 2012 matic
 
-3. Kamu tinggal masukkan di paragraf pertama postingan yang akan mau buat, semua kata-kata yang muncul, misalnya ***Jual grand livina 2012 matic bandung, hubungi Bpk. Andi No. WA 08xx-xxxx-xxxy***
+3. Pilih kata kunci yang pas untuk iklan promosi kamu. Kamu tinggal masukkan di paragraf pertama postingan yang akan mau buat, misalnya: ***Jual grand livina 2012 matic bandung, hubungi Bpk. Andi No. WA 08xx-xxxx-xxxy***
 👉 pajak isi ,, matic sangat responsif,, mesin sehat ,, ac doble dingin ,, bebas tabrak & banjir ,, interior orisinil rapih ,, cat kinclong
 ➡️ oli matic baru ,,oli mesin baru ,, rem baru
 🌟 siap pakai
@@ -45,3 +45,5 @@ Ini juga berlaku untuk admin grup Facebook, kamu bisa manfaatkan tips ini untuk 
 
 1. Grup bersifat publik.
 2. Manfaatkan sekitar 144 karakter pertama isi deksripsi grup FB kamu.
+
+Demikianlah seri tulisan mengenai Facebook Marketing yang berpeluang muncul di hasil pencarian Google. Masukan dan saran dari Anda sangat berarti.
