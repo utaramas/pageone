@@ -27,5 +27,9 @@ Lokasi kami berada 3,8 KM dari Exit Tol Buperta Cibubur Jalan Tol Jagorawi. Anda
 3. Ramah buat pemula.
 
 Hubungi: Sdr. Marzuki
-&#128382; Tsel 0812-1345-587
+&#128382; Tsel 0812-1345-587 --
 Link Whatsapp : KLIK <a href="https://wa.me/628121345587" rel="nofollow" target="_blank">https://wa.me/628121345587</a>
+
+Cari Kursus SEO lainnya di Google:
+
+- <a href="https://www.google.co.id/search?q=kursus+seo+murah+gratis" target="_blank">Kursus SEO Murah / Gratis</a>
