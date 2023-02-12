@@ -31,9 +31,11 @@ Lokasi kami berada 3,8 KM dari Exit Tol Buperta Cibubur Jalan Tol Jagorawi. Anda
 
     - <a href="https://www.udemy.com/certificate/UC-d7aa3cb8-a685-423d-a23e-8577cfe441b4/" target="_blank">Local SEO Course: 10x Your Local Customers</a>
 
-    Sertifikat dari Skill Academy by Ruangguru
-    Note!! Link dari Skill Academy berisi link download sertifikat.
+    Sertifikat dari Skill Academy by Ruangguru.
+
+    Note!! Link dari Skill Academy berisi link DOWNLOAD sertifikat.
     - <a href="https://img-certificate.ruangguru.com/GEBEB767EQKJAGL7/CERT-0WBS1ZTS.jpg?orig=1" target="_blank">SEO 101: Cara Membuat Website Eksis Di Halaman Depan Google</a>
+
 
 2. Lifetime mentoring baik offilne maupun online.
 3. Ramah buat pemula.
