@@ -22,7 +22,15 @@ Lokasi kami berada 3,8 KM dari Exit Tol Buperta Cibubur Jalan Tol Jagorawi. Anda
 
 **Benefit yang akan didapatkan**
 
-1. Pembimbing dari praktisi digital marketing berpengalaman.
+1. Pembimbing dari praktisi digital marketing berpengalaman, memiliki sertifikat internasional dari Udemy.
+    - <a href="https://www.udemy.com/certificate/UC-9a90b3f0-b2d2-49d0-96b6-37c6b7770861/" target="_blank">Google Search Console Tutorial - 2018 New Interface</a>
+
+    - <a href="https://www.udemy.com/certificate/UC-5a6ea32c-31f0-4a29-93bb-5c8f2744ea7a/" target="_blank">SEO Tutorial A-Z + SEO For Wordpress Website & Marketing</a>
+
+    - <a href="https://www.udemy.com/certificate/UC-fcca34c5-94be-4806-970a-56e3f2c6127c/" target="_blank">Affiliate Marketing and Organic SEO in 2021 - The Fast Track</a>
+
+    - <a href="https://www.udemy.com/certificate/UC-d7aa3cb8-a685-423d-a23e-8577cfe441b4/" target="_blank">Local SEO Course: 10x Your Local Customers</a>
+
 2. Lifetime mentoring baik offilne maupun online.
 3. Ramah buat pemula.
 
@@ -32,4 +40,4 @@ Link Whatsapp : KLIK <a href="https://wa.me/628121345587" rel="nofollow" target=
 
 Cari Kursus SEO lainnya di Google:
 
-- <a href="https://www.google.co.id/search?q=kursus+seo+murah+gratis" target="_blank">Kursus SEO Murah / Gratis</a>
+<a href="https://www.google.co.id/search?q=kursus+seo+murah+gratis" target="_blank">Kursus SEO Murah / Gratis</a>
