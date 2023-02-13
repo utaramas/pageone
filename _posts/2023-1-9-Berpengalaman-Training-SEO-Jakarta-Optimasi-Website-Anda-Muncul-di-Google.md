@@ -46,4 +46,4 @@ Link Whatsapp : KLIK <a href="https://wa.me/628121345587" rel="nofollow" target=
 
 Cari Kursus SEO lainnya di Google:
 
-<a href="https://www.google.co.id/search?q=kursus+seo+murah+gratis" target="_blank">Kursus SEO Murah / Gratis</a>
+<a href="https://www.google.com/search?q=training+seo+lokal" target="_blank">Training SEO Lokal</a>
