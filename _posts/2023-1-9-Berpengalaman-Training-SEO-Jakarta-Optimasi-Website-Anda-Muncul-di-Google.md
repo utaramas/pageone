@@ -37,7 +37,7 @@ Lokasi kami berada 3,8 KM dari Exit Tol Buperta Cibubur Jalan Tol Jagorawi. Anda
     - <a href="https://img-certificate.ruangguru.com/GEBEB767EQKJAGL7/CERT-0WBS1ZTS.jpg?orig=1" target="_blank">SEO 101: Cara Membuat Website Eksis Di Halaman Depan Google</a>
 
 
-2. Lifetime mentoring baik offilne maupun online.
+2. Lifetime mentoring baik offline maupun online.
 3. Ramah buat pemula.
 
 Hubungi: Sdr. Marzuki
