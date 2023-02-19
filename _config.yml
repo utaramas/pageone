@@ -21,8 +21,8 @@
 title: DMA SEO PageOne
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Bahas seputar SEO dalam postingan pendek. Semoga tulisan disini bermanfaat untuk anda..
-baseurl: "" # the subpath of your site, e.g. /blog
+  Bahas seputar SEO dalam postingan pendek. Semoga tulisan disini bermanfaat untuk anda.
+baseurl: "/pageone" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: marzuki_id
 github_username:  utaramas
