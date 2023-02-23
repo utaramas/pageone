@@ -1,0 +1,40 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">&copy; <time datetime="{{ site.time }}">{{ site.time | date: '%Y' }}</time> {{ site.title | escape }}</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">
+            {%- if site.author -%}
+              {{ site.author | escape }}
+            {%- else -%}
+              {{ site.title | escape }}
+            {%- endif -%}
+            </li>
+            {%- if site.email -%}
+            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            {%- endif -%}
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        {%- include social.html -%}
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>{{- site.description | escape -}}</p>
+		<p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+      </div>
+    </div>
+    <div id="adgshp812277193"></div>
+    <script type="text/javascript" src="//cdn0.agoda.net/images/sherpa/js/init-dynamic_v8.min.js"></script><script type="text/javascript">
+var stg = new Object(); stg.crt="1918473417353";stg.version="1.05"; stg.id=stg.name="adgshp812277193"; stg.Width="300px"; stg.Height="250px";stg.RefKey="Fi6L2v84bFn9f2Fb4QzLgw==";stg.AutoScrollSpeed=3000;stg.AutoScrollToggle=true;stg.SearchboxShow=false;stg.DiscountedOnly=true;stg.Layout="oblongdynamic"; stg.Language="ms-my";stg.ApiKey="329D88E7-D42A-475F-9AEC-DAF3ABAE75C2";stg.Cid="1833101";  stg.City="14524";stg.Currency="MYR";stg.OverideConf=false; new AgdDynamic('adgshp812277193').initialize(stg);
+</script>
+
+  </div>
+
+</footer>
