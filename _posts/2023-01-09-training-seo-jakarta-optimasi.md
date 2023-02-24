@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Berpengalaman !!! Training SEO Jakarta - Optimasi Website Anda Muncul di Google."
+title: "Berpengalaman !!! Training SEO Jakarta - Optimasi Website Anda Muncul di Google"
 date:   2023-01-09 13:02:57 +0700
 author: "Marzuki"
-tags: SEO
+tags: SEO Piranhamas
 ---
 ***Dapatkan LEADS & TRAFIK ORGANIK menuju website ANDA setelah mengikuti Training SEO di Kelapa Dua Wetan, Ciracas, Jakarta Timur***
 
-![Berpengalaman !!! Training SEO Jakarta - Optimasi Website Anda Muncul di hasil pencarian Google, Yahoo, Bing, Yandex, Baidu - JVXQ+V7 Klp. Dua Wetan, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta]({{ site.url }}/images/Berpengalaman-Training-SEO-Jakarta-Optimasi-Website-Anda-Muncul-di-Google.png)***Image via Canva***
+![Berpengalaman !!! Training SEO Jakarta - Optimasi Website Anda Muncul di hasil pencarian Google, Yahoo, Bing, Yandex, Baidu - JVXQ+V7 Klp. Dua Wetan, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta]({{ site.baseurl }}/images/Berpengalaman-Training-SEO-Jakarta-Optimasi-Website-Anda-Muncul-di-Google.png) ***Image via Canva***
 
 Lokasi kami berada 3,8 KM dari Exit Tol Buperta Cibubur Jalan Tol Jagorawi. Anda bisa lanjut menggunakan angkutan umum JAK LINGKO JAK73 Angkot Jambore Cibubur – Pasar Rebo. Lalu turun di Bus Stop Cibubur Indah II, Jl. Rawa Bola.
 
