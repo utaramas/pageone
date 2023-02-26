@@ -1,18 +1,5 @@
----
-layout: page
-title: About
-permalink: /about/
----
+Belajar seo Youtube, belajar seo untuk pemula, belajar seo dan algoritma Youtube, belajar seo WordPress, belajar seo Tiktok, belajar seo sosial media, belajar seo Instagram.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Belajar seo Indonesia, belajar ilmu seo, belajar menulis artikel seo, belajar seo dari awal, belajar seo dari nol.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Belajar seo dan blog, belajar seo blogging, belajar seo untuk Blogspot , belajar seo Blogger.
