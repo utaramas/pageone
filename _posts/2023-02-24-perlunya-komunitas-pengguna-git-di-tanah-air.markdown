@@ -21,9 +21,9 @@ Fokus mimin selanjutnya adalah ***Netlify & Cloudflare***, sebab untuk subdomain
 
 #### Numpang Jet Dunia Maya Netlify & Cloudflare
 
-Setelah kamu membuat repositori di Github, kamu bisa menyambungkan repositori kamu ke Netlify & Cloudflare, jadi setiap ada perubahan di repo kita, maka otomatis akan ada perubahan di Netlify & Cloudflare.
+Setelah kamu membuat repositori di Github, kamu bisa menyambungkan repositori kamu ke <a href="https://earnest-lamington-bc8440.netlify.app/" target="_blank">Netlify</a> & Cloudflare, jadi setiap ada perubahan di repo kita, maka otomatis akan ada perubahan di Netlify & Cloudflare.
 
-Mimin sekarang sudah tidak menggunakan sub domain bawaan github.io, sebagai gantinya sub domain yang baru adalah netlify.app & pages.dev.
+Mimin sekarang sudah tidak menggunakan sub domain bawaan github.io, sebagai gantinya sub domain yang baru adalah <a href="https://earnest-lamington-bc8440.netlify.app/" target="_blank">netlify.app</a> & pages.dev.
 
 ## Update 25 Feb 2023, Masih banyak lagi website sejenis
 

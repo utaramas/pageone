@@ -22,18 +22,18 @@ Lokasi kami berada 3,8 KM dari Exit Tol Buperta Cibubur Jalan Tol Jagorawi. Anda
 #### Benefit yang akan didapatkan dengan ikut Kursus SEO Jakarta Timur
 
 1. Pembimbing dari praktisi digital marketing berpengalaman, memiliki sertifikat internasional dari Udemy.
-    - <a href="https://www.udemy.com/certificate/UC-9a90b3f0-b2d2-49d0-96b6-37c6b7770861/" target="_blank">Google Search Console Tutorial - 2018 New Interface</a>
+    - <a href="https://www.udemy.com/certificate/UC-9a90b3f0-b2d2-49d0-96b6-37c6b7770861/" rel="nofollow" target="_blank">Google Search Console Tutorial - 2018 New Interface</a>
 
-    - <a href="https://www.udemy.com/certificate/UC-5a6ea32c-31f0-4a29-93bb-5c8f2744ea7a/" target="_blank">SEO Tutorial A-Z + SEO For Wordpress Website & Marketing</a>
+    - <a href="https://www.udemy.com/certificate/UC-5a6ea32c-31f0-4a29-93bb-5c8f2744ea7a/" rel="nofollow" target="_blank">SEO Tutorial A-Z + SEO For Wordpress Website & Marketing</a>
 
-    - <a href="https://www.udemy.com/certificate/UC-fcca34c5-94be-4806-970a-56e3f2c6127c/" target="_blank">Affiliate Marketing and Organic SEO in 2021 - The Fast Track</a>
+    - <a href="https://www.udemy.com/certificate/UC-fcca34c5-94be-4806-970a-56e3f2c6127c/" rel="nofollow" target="_blank">Affiliate Marketing and Organic SEO in 2021 - The Fast Track</a>
 
-    - <a href="https://www.udemy.com/certificate/UC-d7aa3cb8-a685-423d-a23e-8577cfe441b4/" target="_blank">Local SEO Course: 10x Your Local Customers</a>
+    - <a href="https://www.udemy.com/certificate/UC-d7aa3cb8-a685-423d-a23e-8577cfe441b4/" rel="nofollow" target="_blank">Local SEO Course: 10x Your Local Customers</a>
 
     Sertifikat dari Skill Academy by Ruangguru.
 
     Note!! Link dari Skill Academy berisi link DOWNLOAD sertifikat.
-    - <a href="https://img-certificate.ruangguru.com/GEBEB767EQKJAGL7/CERT-0WBS1ZTS.jpg?orig=1" target="_blank">SEO 101: Cara Membuat Website Eksis Di Halaman Depan Google</a>
+    - <a href="https://img-certificate.ruangguru.com/GEBEB767EQKJAGL7/CERT-0WBS1ZTS.jpg?orig=1" rel="nofollow" target="_blank">SEO 101: Cara Membuat Website Eksis Di Halaman Depan Google</a>
 
 
 2. Lifetime mentoring baik offline maupun online.
