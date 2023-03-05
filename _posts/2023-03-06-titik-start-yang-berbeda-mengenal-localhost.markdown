@@ -3,7 +3,7 @@ layout: post
 title: "Titik start yang berbeda Mengenal Localhost"
 date:   2023-03-06 00:00:00 +0000
 author: "Marzuki"
-tags: github
+tags: github localhost
 ---
 
 Mungkin mimin termasuk yang belakangan mengenal localhost, padahal sudah mengenal istilah tersebut dari mulai tahun 2000an awal. Ya mimin tidak pernah menginstall WordPress di localhost sebab salah satu teman memberi tahu kalau ada penyedia hosting gratis. Waktu itu mimin menggunakan Byethost kemudian 000webhost, bukan di Localhost.
