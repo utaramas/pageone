@@ -5,7 +5,7 @@ date:   2023-02-24 02:00:00 +0000
 author: "Marzuki"
 tags: SEO Piranhamas
 ---
-## Lumayan menantang memang menggunakan Github tanpa ikut komunitas pengguna Git
+Lumayan menantang memang menggunakan Github tanpa ikut komunitas pengguna Git.
 
 ![Perlunya komunitas pengguna Git di tanah air]({{ site.baseurl }}/images/pengalaman-belajar-github-otodidak-1024x535.png)
 
@@ -13,13 +13,13 @@ Mimin belum tahu ada atau tidaknya <a href="https://dma.pages.dev" target="_blan
 
 Sebab memang butuh kesabaran juga sih dalam menggunakan Git. Apalagi kalau kamu memang memiliki passion koding dan digital marketing.
 
-### Komunitas pengguna Git untuk Digital marketing
+## Komunitas pengguna Git untuk Digital marketing
 
 Sebagai salah jet dunia maya yang bisa kita manfaatkan untuk menawarkan produk/jasa kita.
 
 Fokus mimin selanjutnya adalah ***Netlify & Cloudflare***, sebab untuk subdomain yang didapat memiliki DA yang lebih besar dari Github. Bisa jadi kecepatan index akan lebih cepat di Netlify, begitu juga mungkin dengan kualitas backlink yang didapat.
 
-#### Komunitas Pengguna Git Aliran Piranhamas
+### Komunitas Pengguna Git Aliran Piranhamas
 
 Setelah kamu membuat repositori di Github, kamu bisa menyambungkan repositori kamu ke <a href="https://earnest-lamington-bc8440.netlify.app/" target="_blank">Netlify</a> & Cloudflare, jadi setiap ada perubahan di repo kita, maka otomatis akan ada perubahan di Netlify & Cloudflare.
 
