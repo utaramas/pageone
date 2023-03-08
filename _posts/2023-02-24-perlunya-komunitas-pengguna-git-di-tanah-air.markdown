@@ -5,7 +5,7 @@ date:   2023-02-24 02:00:00 +0000
 author: "Marzuki"
 tags: SEO Piranhamas
 ---
-## Lumayan menantang memang menggunakan Github tanpa ikut komnuitas pengguna Git.
+## Lumayan menantang memang menggunakan Github tanpa ikut komunitas pengguna Git
 
 ![Perlunya komunitas pengguna Git di tanah air]({{ site.baseurl }}/images/pengalaman-belajar-github-otodidak-1024x535.png)
 
