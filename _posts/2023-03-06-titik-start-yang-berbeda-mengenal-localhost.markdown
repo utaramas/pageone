@@ -6,13 +6,13 @@ author: "Marzuki"
 tags: github localhost
 ---
 
-Mungkin mimin termasuk yang belakangan mengenal localhost, padahal sudah mengenal istilah tersebut dari mulai tahun 2000an awal. Ya mimin tidak pernah menginstall WordPress di localhost sebab salah satu teman memberi tahu kalau ada penyedia hosting gratis. Waktu itu mimin menggunakan Byethost kemudian 000webhost, bukan di Localhost.
+Mungkin mimin termasuk yang belakangan <a href="https://dma.pages.dev" target="_blank">mengenal localhost</a>, padahal sudah mengenal istilah tersebut dari mulai tahun 2000an awal. Ya mimin tidak pernah menginstall WordPress di localhost sebab salah satu teman memberi tahu kalau ada penyedia hosting gratis. Waktu itu mimin menggunakan Byethost kemudian 000webhost, bukan di Localhost.
 
 ![Titik start yang berbeda Mengenal Localhost]({{ site.baseurl }}/images/pengalaman-belajar-github-otodidak-1024x535.png)
 
 ## Mengenal Localhost 20 tahun kemudian
 
-Selanjutnya mimin baru mulai membeli nama domain dan layanan hosting berbayar seperti di Dewaweb. Itupun setelah mengikuti Meetup WordPress Jakarta tahun 2018an.
+Selanjutnya mimin baru mulai membeli nama domain dan layanan hosting berbayar seperti di <a href="https://www.dewaweb.com" rel="nofollow" target="_blank">Dewaweb</a>. Itupun setelah mengikuti Meetup WordPress Jakarta tahun 2018an.
 
 Dalam perjalanan kesini, mimin lebih banyak memanfaatkan website yang bisa dimanfaatkan secara free yang tidak memerlukan hosting.
 
