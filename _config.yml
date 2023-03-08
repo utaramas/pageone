@@ -28,7 +28,7 @@ twitter_username: marzuki_id
 github_username:  utaramas
 
 # Build settings
-theme: "just-the-docs"
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-google_search_console_verification_file
