@@ -9,7 +9,7 @@ Inilah kesalahan terbesar saya saat mengoptimasi posting untuk keperluan SEO, ti
 
 ![Pentingnya Search Intent Saat Membuat Artikel/ Posting]({{ site.baseurl }}/images/Pentingnya-Search-Intent-Saat-Membuat-Artikel.png)***Image via Canva***
 
-## Belasan tahun tidak memperhatikan pentingnya Search Intent/ User Intent.
+## Belasan tahun tidak memperhatikan pentingnya Search Intent/ User Intent
 
 Tidak terasa belasan tahun sudah saya menekuni dunia internet marketing atau digital marketing khususnya lewat optimasi mesin pencari. Belasan blog gratisan maupun berbayar yang sudah dibuat namun belum juga memberi hasil optimal.
 
@@ -25,7 +25,7 @@ Tautan berkualitas walaupun posting yang saya buat sangat sederhana, bukan posti
 
 Pertanyaan saya selanjutnya apakah blog saya akan mendapat reward yang besar dari sisi otoritas? Ini yang masih belum bisa terjawab dalam waktu dekat, masih harus menunggu pengalaman dari setiap proses baru yang saya lakukan.
 
-### Bersyukur walau telat memperhatikan Search Intent**
+### Bersyukur walau telat memperhatikan Search Intent
 
 Ribuan jam sudah terlewati, ribuan rupiah untuk sewa domain & hosting. Belum lagi untuk biaya rental warnet disaat belum memiliki laptop sendiri, ada komputer tapi sering rusak. Juga untuk berlangganan Speedy, membeli ebook, buku serta ikut seminar dan workshop.
 
