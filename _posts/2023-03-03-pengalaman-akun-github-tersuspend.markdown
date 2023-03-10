@@ -27,6 +27,6 @@ Nanti verifikasi yang masuk akan tetap ke alamat email utama koq. Kamu cukup men
 
 ### Sign out dari aplikasi Github yang tersuspend
 
-Walaupun akun kamu tersuspen, kamu tetap login ke github. <a href="https://github.com/utaramas" rel="nofollow" target="_blank">Github</a> tidak otomatis mengeluarkan status login kamu di aplikasi seperti visual studio, git bash dan github desktop.
+Walaupun akun kamu tersuspen, kamu tetap login ke github. <a href="https://github.com/utaramas/hotelslist" target="_blank">Github</a> tidak otomatis mengeluarkan status login kamu di aplikasi seperti visual studio, git bash dan github desktop.
 
 Jadi ketika kamu sudah pusing-pusing melakukan git add, git commit dan git push, pembaruan yang kamu lakukan tidak akan masuk kedalam repositori. Sayang bukan?
