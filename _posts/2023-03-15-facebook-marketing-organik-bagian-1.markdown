@@ -3,7 +3,7 @@ layout: post
 title: "Facebook Marketing Bagian 1"
 date:   2023-03-15 02:00:00 +0000
 author: "Marzuki"
-tags: SEO Piranhamas
+tags: SEO Piranhamas Facebook
 ---
 Facebook marketing bagian 1. Cara posting jualan di Facebook secara murah meriah. Ada loh rahasia melejitkan penjualan produk/jasa dengan manfaatkan fitur Facebook Marketing gratisan yang jarang dibongkar.
 
