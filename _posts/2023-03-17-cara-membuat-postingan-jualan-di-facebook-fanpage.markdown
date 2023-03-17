@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "Cara Membuat Postingan Jualan di Facebook Marketing Organik (Bagian 2)"
+title: "Cara Posting di Facebook Marketing Organik (Bagian 2)"
 date:   2023-03-17 02:00:00 +0000
 author: "Marzuki"
 tags: SEO Piranhamas Facebook
 ---
 
-Cara Membuat Postingan Jualan di <a href="https://www.facebook.com" rel="nofollow" target="_blank" >Facebook</a>Marketing Organik. Yang perlu kita buat sekarang adalah sebuah halaman / FP.  Silahkan cari di Youtube dengan kata kunci cara membuat fanpage facebook. Puluhan hingga ratusan video bisa kamu tonton untuk masalah ini.
+Cara Membuat Postingan Jualan di <a href="https://www.facebook.com" rel="nofollow" target="_blank" >Facebook</a> Marketing Organik. Yang perlu kita buat sekarang adalah sebuah halaman / FP.  Silahkan cari di Youtube dengan kata kunci cara membuat fanpage facebook. Puluhan hingga ratusan video bisa kamu tonton untuk masalah ini.
 
-## Mari kita bahas Cara Membuat Postingan Jualan di Facebook Marketing Organik
+## Cara Membuat Postingan Jualan di Facebook Marketing Organik
 
-![Cara Membuat Postingan Jualan di Facebook Marketing Organik]({{ site.baseurl }}/images/Cara-Posting-Jualan-di-Facebook-Tips-Posting-Jualan-1024x536.png)
+![Cara Posting di Facebook Marketing Organik]({{ site.baseurl }}/images/Cara-Posting-Jualan-di-Facebook-Tips-Posting-Jualan-1024x536.png)
 
 Disinilah rahasianya. Kita akan menggunakan fitur gratisan halaman fanpage FB seperti :
 
