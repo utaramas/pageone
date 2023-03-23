@@ -5,7 +5,6 @@ date:   2023-03-22 02:00:00 +0000
 author: "Marzuki"
 tags: SEO Piranhamas Facebook
 ---
-
 Saat posting jualan dengan <a href="https://www.facebook.com" rel="nofollow" target="_blank" >Facebook</a> marketing organik SEO, perhatikan 3 hal berikut:
 
 ![Facebook Marketing Organik SEO]({{ site.baseurl }}/images/Cara-Posting-Jualan-di-Facebook-Tips-Posting-Jualan-1024x536.png)
