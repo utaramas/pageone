@@ -46,3 +46,9 @@
 [https://www.instagram.com/p/CKnoW_Rgf7U](https://www.instagram.com/p/CKnoW_Rgf7U)
 
 <hr/>
+
+### Kursus SEO Terbaik di Jakarta yang Harus Anda Ikuti
+
+[https://medium.com/@marzukiseo/kursus-seo-terbaik-di-jakarta-yang-harus-anda-ikuti-f68da211413c](https://medium.com/@marzukiseo/kursus-seo-terbaik-di-jakarta-yang-harus-anda-ikuti-f68da211413c)
+
+<hr/>
