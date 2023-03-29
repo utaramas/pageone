@@ -52,3 +52,9 @@
 [https://medium.com/@marzukiseo/kursus-seo-terbaik-di-jakarta-yang-harus-anda-ikuti-f68da211413c](https://medium.com/@marzukiseo/kursus-seo-terbaik-di-jakarta-yang-harus-anda-ikuti-f68da211413c)
 
 <hr/>
+
+### Perkhidmatan Search Engine Optimization (SEO) 
+
+[https://twitter.com/marzuki_id/status/1355060863036608515](https://twitter.com/marzuki_id/status/1355060863036608515)
+
+<hr/>
