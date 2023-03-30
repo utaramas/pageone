@@ -58,3 +58,9 @@
 [https://twitter.com/marzuki_id/status/1355060863036608515](https://twitter.com/marzuki_id/status/1355060863036608515)
 
 <hr/>
+
+### Belajar seo pemula, belajar seo WordPress, belajar seo Instagram 
+
+[https://twitter.com/marzuki_id/status/1353021424739475457](https://twitter.com/marzuki_id/status/1353021424739475457)
+
+<hr/>
