@@ -64,3 +64,11 @@
 [https://twitter.com/marzuki_id/status/1353021424739475457](https://twitter.com/marzuki_id/status/1353021424739475457)
 
 <hr/>
+
+### 0812 134 5587 - Kursus Internet Marketing & SEO Jakarta Timur
+
+[https://www.flickr.com/photos/191750149@N08/52783338383](https://www.flickr.com/photos/191750149@N08/52783338383)
+
+[https://www.flickr.com/photos/191750149@N08/albums/72177720307150473](https://www.flickr.com/photos/191750149@N08/albums/72177720307150473)
+
+<hr/>
