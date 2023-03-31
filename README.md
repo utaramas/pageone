@@ -72,3 +72,9 @@
 [https://www.flickr.com/photos/191750149@N08/albums/72177720307150473](https://www.flickr.com/photos/191750149@N08/albums/72177720307150473)
 
 <hr/>
+
+### Kursus Digital Marketing Jakarta. Info WA 0812 1345 587 
+
+[https://twitter.com/marzuki_id/status/1348097141634289666](https://twitter.com/marzuki_id/status/1348097141634289666)
+
+<hr/>
