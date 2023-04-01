@@ -78,3 +78,9 @@
 [https://twitter.com/marzuki_id/status/1348097141634289666](https://twitter.com/marzuki_id/status/1348097141634289666)
 
 <hr/>
+
+### Kursus seo terbaik di jakarta, informasi 0812 1345 587 
+
+[https://twitter.com/marzuki_id/status/1347385424562409476](https://twitter.com/marzuki_id/status/1347385424562409476)
+
+<hr/>
