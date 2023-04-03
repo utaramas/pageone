@@ -84,3 +84,9 @@
 [https://twitter.com/marzuki_id/status/1347385424562409476](https://twitter.com/marzuki_id/status/1347385424562409476)
 
 <hr/>
+
+### Kursus seo jakarta timur, info 0812-1345-587 
+
+[https://twitter.com/marzuki_id/status/1347169796501094400](https://twitter.com/marzuki_id/status/1347169796501094400)
+
+<hr/>
