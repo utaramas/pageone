@@ -90,3 +90,9 @@
 [https://twitter.com/marzuki_id/status/1347169796501094400](https://twitter.com/marzuki_id/status/1347169796501094400)
 
 <hr/>
+
+### List of hotels in various cities around the world 
+
+[https://github.com/utaramas/hotelslist](https://github.com/utaramas/hotelslist)
+
+<hr/>
