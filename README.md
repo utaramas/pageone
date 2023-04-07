@@ -96,3 +96,11 @@
 [https://github.com/utaramas/hotelslist](https://github.com/utaramas/hotelslist)
 
 <hr/>
+
+### Pelatihan SEO di Depok - Info 08121345587
+
+[https://www.facebook.com/events/997200634139943](https://www.facebook.com/events/997200634139943)
+
+[https://www.facebook.com/events/jl-margonda-raya/pelatihan-seo-di-depok-info-08121345587/997200634139943](https://www.facebook.com/events/jl-margonda-raya/pelatihan-seo-di-depok-info-08121345587/997200634139943)
+
+<hr/>
