@@ -23,7 +23,7 @@ title: DMA SEO PageOne
 description: >- # this means to ignore newlines until "baseurl:"
   WA 0812-1345-587 - Training SEO, Kursus SEO, Pelatihan SEO di Kelapa Dua Wetan, Ciracas, Jakarta Timur. JVXQ+V7 Klp. Dua Wetan, Kota Jakarta Timur.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://dma.pages.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: marzuki_id
 github_username:  utaramas
 
