@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Optimasi SEO Facebook Marketing Organik (Bagian 3)"
+title: "Optimasi Facebook Marketing Fanpage (Bagian 3)"
 date:   2023-03-20 02:00:00 +0000
 author: "Marzuki"
 tags: SEO Piranhamas Facebook
@@ -10,7 +10,7 @@ Banyak marketer yang belum menggunakan fitur optimasi <a href="https://dma.pages
 
 ## Mari kita bahas Optimasi SEO Postingan Marketing di Facebook Fanpage
 
-![Optimasi SEO Facebook Marketing Organik]({{ site.baseurl }}/images/Cara-Posting-Jualan-di-Facebook-Tips-Posting-Jualan-1024x536.png)
+![Optimasi Facebook Marketing Fanpage]({{ site.baseurl }}/images/Cara-Posting-Jualan-di-Facebook-Tips-Posting-Jualan-1024x536.png)
 
 ### Event / Acara Facebook
 

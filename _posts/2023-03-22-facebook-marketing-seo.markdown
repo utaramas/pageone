@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Facebook Marketing Organik SEO (Bagian 4)"
+title: "Facebook Marketing SEO (Bagian 4)"
 date:   2023-03-22 02:00:00 +0000
 author: "Marzuki"
 tags: SEO Piranhamas Facebook
 ---
-Saat posting jualan dengan <a href="https://www.facebook.com" rel="nofollow" target="_blank" >Facebook</a> marketing organik SEO, perhatikan 3 hal berikut:
+Saat posting jualan dengan <a href="https://www.facebook.com" rel="nofollow" target="_blank" >Facebook</a> marketing SEO, perhatikan 3 hal berikut:
 
-![Facebook Marketing Organik SEO]({{ site.baseurl }}/images/Cara-Posting-Jualan-di-Facebook-Tips-Posting-Jualan-1024x536.png)
+![Facebook Marketing SEO]({{ site.baseurl }}/images/Cara-Posting-Jualan-di-Facebook-Tips-Posting-Jualan-1024x536.png)
 
 Kesatu, jangan lupakan the power of hashtag. Ini kamu bisa cari pada laman maupun aplikasi efbe maupun instagram. Sehingga postingan kamu mudah muncul saat calon konsumen melakukan pencarian.
 
