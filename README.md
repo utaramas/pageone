@@ -104,3 +104,9 @@
 [https://www.facebook.com/events/jl-margonda-raya/pelatihan-seo-di-depok-info-08121345587/997200634139943](https://www.facebook.com/events/jl-margonda-raya/pelatihan-seo-di-depok-info-08121345587/997200634139943)
 
 <hr/>
+
+### Kursus seo jakarta timur, Info WA +62812-1345-587
+
+[https://www.instagram.com/p/CJvpm_Og45K](https://www.instagram.com/p/CJvpm_Og45K)
+
+<hr/>
