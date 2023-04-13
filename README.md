@@ -116,3 +116,9 @@
 [https://sites.google.com/view/kursusdigitalmarketingseojkt/kursus-internet-marketing-di-cibinong-bogor](https://sites.google.com/view/kursusdigitalmarketingseojkt/kursus-internet-marketing-di-cibinong-bogor)
 
 <hr/>
+
+### Pelatihan Internet Marketing, Belajar, Kursus, Private SEO, Workshop, Training Facebook Youtube Marketing di Puspasari Bogor
+
+[https://sites.google.com/view/kursusdigitalmarketingseojkt/kursus-internet-marketing-di-bogor](https://sites.google.com/view/kursusdigitalmarketingseojkt/kursus-internet-marketing-di-bogor)
+
+<hr/>
