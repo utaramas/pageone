@@ -122,3 +122,9 @@
 [https://sites.google.com/view/kursusdigitalmarketingseojkt/kursus-internet-marketing-di-bogor](https://sites.google.com/view/kursusdigitalmarketingseojkt/kursus-internet-marketing-di-bogor)
 
 <hr/>
+
+### 6 menit dari exit tol Karanggan Kec. Gn. Putri, Kabupaten Bogor, Jawa Barat. Dapatkan LEADS & TRAFIK ORGANIK menuju website ANDA setelah mengikuti Training SEO bersama kami
+
+[https://sites.google.com/view/kursusdigitalmarketingseojkt/Berpengalaman-Training-SEO-Bogor-Optimasi-Website-Anda-di-Google](https://sites.google.com/view/kursusdigitalmarketingseojkt/Berpengalaman-Training-SEO-Bogor-Optimasi-Website-Anda-di-Google)
+
+<hr/>
