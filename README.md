@@ -128,3 +128,9 @@
 [https://sites.google.com/view/kursusdigitalmarketingseojkt/Berpengalaman-Training-SEO-Bogor-Optimasi-Website-Anda-di-Google](https://sites.google.com/view/kursusdigitalmarketingseojkt/Berpengalaman-Training-SEO-Bogor-Optimasi-Website-Anda-di-Google)
 
 <hr/>
+
+### Kursus SEO di Cibubur Jakarta Timur
+
+[https://sites.google.com/view/dmaseopageone/kursus-internet-marketing-di-cibubur](https://sites.google.com/view/dmaseopageone/kursus-internet-marketing-di-cibubur)
+
+<hr/>
