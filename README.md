@@ -123,7 +123,9 @@
 
 <hr/>
 
-### 6 menit dari exit tol Karanggan Kec. Gn. Putri, Kabupaten Bogor, Jawa Barat. Dapatkan LEADS & TRAFIK ORGANIK menuju website ANDA setelah mengikuti Training SEO bersama kami
+### Dapatkan LEADS & TRAFIK ORGANIK menuju website ANDA setelah mengikuti Training SEO bersama kami
+
+6 menit dari exit tol Karanggan Kec. Gn. Putri, Kabupaten Bogor, Jawa Barat.
 
 [https://sites.google.com/view/kursusdigitalmarketingseojkt/Berpengalaman-Training-SEO-Bogor-Optimasi-Website-Anda-di-Google](https://sites.google.com/view/kursusdigitalmarketingseojkt/Berpengalaman-Training-SEO-Bogor-Optimasi-Website-Anda-di-Google)
 
