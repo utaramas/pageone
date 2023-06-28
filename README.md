@@ -49,6 +49,8 @@
 
 ### Kursus SEO Terbaik di Jakarta yang Harus Anda Ikuti
 
+Berlokasi dekat Gereja HKBP Cibubur, Jakarta Timur.
+
 [https://medium.com/@marzukiseo/kursus-seo-terbaik-di-jakarta-yang-harus-anda-ikuti-f68da211413c](https://medium.com/@marzukiseo/kursus-seo-terbaik-di-jakarta-yang-harus-anda-ikuti-f68da211413c)
 
 <hr/>
