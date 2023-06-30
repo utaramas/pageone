@@ -65,6 +65,8 @@ SEO Course Kuala Lumpur, SEO Course Sarawak, SEO Course Sabah.
 
 ### Belajar seo pemula, belajar seo WordPress, belajar seo Instagram 
 
+Lokasi tidak jauh dari Gereja HKBP Cibubur Jakarta Timur.
+
 [https://twitter.com/marzuki_id/status/1353021424739475457](https://twitter.com/marzuki_id/status/1353021424739475457)
 
 <hr/>
