@@ -19,6 +19,8 @@
 
 ### Contoh Artikel Yang SEO Friendly
 
+Membuat artikel yang SEO Friendly sangat penting agar konten artikel anda bisa dirayapi robot mesin pencari, mendapat peringkat dan akhirnya mendapatkan pengunjung.
+
 [https://earnest-lamington-bc8440.netlify.app](https://earnest-lamington-bc8440.netlify.app)
 
 [https://timely-marigold-2b2fcc.netlify.app](https://timely-marigold-2b2fcc.netlify.app)
