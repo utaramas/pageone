@@ -91,6 +91,8 @@ Lokasi kursus dekat Perumahan Cibubur Indah II, Jakarta Timur.
 
 ### Kursus seo terbaik di jakarta, informasi 0812 1345 587 
 
+Berlokasi 100 meter dari SMA Chartar Buana Cibubur Jakarta Timur.
+
 [https://twitter.com/marzuki_id/status/1347385424562409476](https://twitter.com/marzuki_id/status/1347385424562409476)
 
 <hr/>
