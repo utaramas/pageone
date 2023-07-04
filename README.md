@@ -99,7 +99,9 @@ Berlokasi 100 meter dari SMA Chartar Buana Cibubur Jakarta Timur.
 
 <hr/>
 
-### Kursus seo jakarta timur, info 0812-1345-587 
+### Kursus SEO Jakarta Timur, info 0812-1345-587 
+
+Mudah di jangkau dengan JakLINGKO jurusan Jambore - Pasar Rebo.
 
 [https://twitter.com/marzuki_id/status/1347169796501094400](https://twitter.com/marzuki_id/status/1347169796501094400)
 
