@@ -115,6 +115,8 @@ Mudah di jangkau dengan JakLINGKO jurusan Jambore - Pasar Rebo.
 
 ### Pelatihan SEO di Depok - Info 08121345587
 
+Lokasi pelatihan optimasi mesin pencari tidak jauh dari DR Florist Kelapa Dua Depok.
+
 [https://www.facebook.com/events/997200634139943](https://www.facebook.com/events/997200634139943)
 
 [https://www.facebook.com/events/jl-margonda-raya/pelatihan-seo-di-depok-info-08121345587/997200634139943](https://www.facebook.com/events/jl-margonda-raya/pelatihan-seo-di-depok-info-08121345587/997200634139943)
