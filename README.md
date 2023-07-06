@@ -125,6 +125,8 @@ Lokasi pelatihan optimasi mesin pencari tidak jauh dari DR Florist Kelapa Dua De
 
 ### Kursus seo jakarta timur, Info WA +62812-1345-587
 
+Lokasi kursus 100 meter dari Gereja HKBP Resort Cibubur, Jakarta Timur.
+
 [https://www.instagram.com/p/CJvpm_Og45K](https://www.instagram.com/p/CJvpm_Og45K)
 
 <hr/>
