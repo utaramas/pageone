@@ -139,6 +139,8 @@ Lokasi kursus 100 meter dari Gereja HKBP Resort Cibubur, Jakarta Timur.
 
 ### Pelatihan Internet Marketing, Belajar, Kursus, Private SEO, Workshop, Training Facebook Youtube Marketing di Puspasari Bogor
 
+Berjarak 6 menit dari exit tol Karanggan Kec. Gn. Putri, Kabupaten Bogor, Jawa Barat.
+
 [https://sites.google.com/view/kursusdigitalmarketingseojkt/kursus-internet-marketing-di-bogor](https://sites.google.com/view/kursusdigitalmarketingseojkt/kursus-internet-marketing-di-bogor)
 
 <hr/>
