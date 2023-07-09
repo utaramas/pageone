@@ -133,6 +133,8 @@ Lokasi kursus 100 meter dari Gereja HKBP Resort Cibubur, Jakarta Timur.
 
 ### Kursus Internet Marketing di Cibinong Bogor
 
+Berjarak 6 menit dari keluar tol Karanggan Kec. Gn. Putri, Kabupaten Bogor, Jawa Barat.
+
 [https://sites.google.com/view/kursusdigitalmarketingseojkt/kursus-internet-marketing-di-cibinong-bogor](https://sites.google.com/view/kursusdigitalmarketingseojkt/kursus-internet-marketing-di-cibinong-bogor)
 
 <hr/>
