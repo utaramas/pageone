@@ -129,6 +129,8 @@ Lokasi kursus 100 meter dari Gereja HKBP Resort Cibubur, Jakarta Timur.
 
 [https://www.instagram.com/p/CJvpm_Og45K](https://www.instagram.com/p/CJvpm_Og45K)
 
+[https://m.facebook.com/permalink.php?story_fbid=101933401862134&id=101781878543953&locale=hi_IN](https://m.facebook.com/permalink.php?story_fbid=101933401862134&id=101781878543953&locale=hi_IN)
+
 <hr/>
 
 ### Kursus Internet Marketing di Cibinong Bogor
