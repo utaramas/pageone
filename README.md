@@ -157,7 +157,7 @@ Berjarak 6 menit dari exit tol Karanggan Kec. Gn. Putri, Kabupaten Bogor, Jawa B
 
 ### Kursus SEO di Cibubur Jakarta Timur
 
-
+Lokasi pelatihan & kursus 100 meter dari Gereja HKBP Resort Cibubur, Jakarta Timur.
 
 [https://sites.google.com/view/dmaseopageone/kursus-internet-marketing-di-cibubur](https://sites.google.com/view/dmaseopageone/kursus-internet-marketing-di-cibubur)
 
@@ -165,7 +165,7 @@ Berjarak 6 menit dari exit tol Karanggan Kec. Gn. Putri, Kabupaten Bogor, Jawa B
 
 ### Pelatihan Internet Marketing, Belajar, Kursus, Private SEO
 
-Workshop, Training Facebook Youtube Marketing di Kelapa Dua Wetan.
+Workshop, Training Facebook Youtube Marketing di Kelapa Dua Wetan, Jakarta Timur.
 
 [https://sites.google.com/view/dmaseopageone/kursus-digital-marketing-di-cibubur](https://sites.google.com/view/dmaseopageone/kursus-digital-marketing-di-cibubur)
 
