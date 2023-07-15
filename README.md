@@ -93,7 +93,7 @@ Lokasi kursus dekat Perumahan Cibubur Indah II, Jakarta Timur.
 
 ### Kursus seo terbaik di jakarta, informasi 0812 1345 587 
 
-Berlokasi 100 meter dari SMA Chartar Buana Cibubur Jakarta Timur.
+Berlokasi 100 meter dari SMA Chartar Buana Cibubur Jakarta Timur. Mudah di jangkau melalui TransJakarta atau LRT Jabodebek, turun di dekat Taman Bunga Wiladatika stasiun Harjamukti, lalu lanjutkan dengan JakLINGKO jurusan Jambore - Pasar Rebo.
 
 [https://twitter.com/marzuki_id/status/1347385424562409476](https://twitter.com/marzuki_id/status/1347385424562409476)
 
