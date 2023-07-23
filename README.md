@@ -476,3 +476,18 @@ https://tinyuna.blogspot.com/p/sitemap.html
 https://tinyuna.blogspot.com/p/contact.html
 
 <hr/>
+
+### Nitter marzuki_id
+
+Nitter marzuki_id
+
+https://t.me/flvnolcocoafhi
+https://www.instagram.com/p/CQ6I8qwACgG/?utm_medium=copy_link
+https://www.instagram.com/p/CQ6JULFABWe/?utm_medium=copy_link
+https://www.facebook.com/people/0812-1345-587-Flvnol-Cocoa-FHI-Jakarta-Timur/100076311754630/
+https://iklangratistanpadaftar.com/iklan/0812-1345-587-flvnol-cocoa-fhi-jakarta-timur.html
+https://nitter.tinfoil-hat.net/marzuki_id
+https://nt.catgirl.cloud/marzuki_id
+https://tweet.lambda.dance/marzuki_id
+
+<hr/>
