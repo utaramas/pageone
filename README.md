@@ -481,7 +481,6 @@ https://tinyuna.blogspot.com/p/contact.html
 
 Nitter marzuki_id
 
-https://t.me/flvnolcocoafhi
 https://www.instagram.com/p/CQ6I8qwACgG/?utm_medium=copy_link
 https://www.instagram.com/p/CQ6JULFABWe/?utm_medium=copy_link
 https://www.facebook.com/people/0812-1345-587-Flvnol-Cocoa-FHI-Jakarta-Timur/100076311754630/
