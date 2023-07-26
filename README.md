@@ -649,3 +649,63 @@ https://tawaranterbaik.page.link/luxhotel-telukintan
 https://docs.google.com/spreadsheets/d/11EbVY6cqcqZI7YLsFrBLkjmiAnkE6tCdXXSSg9LXJXo/edit#gid=0
 
 <hr/>
+
+### Cara menghindari stroke di usia muda
+
+Cara menghindari stroke di usia muda, cara mencegah penyakit stroke
+
+https://twitter.com/marzuki_id/status/1605024197310181376 Go Pijat Massage Depok Margonda
+https://twitter.com/marzuki_id/status/1609710891167256576 Cara menghindari stroke di usia muda, cara mencegah penyakit stroke
+https://twitter.com/marzuki_id/status/1593491648247345152 Cara agar tidak gamon, Cara ga gamon 
+https://twitter.com/marzuki_id/status/1353021424739475457 Belajar seo pemula, belajar seo wordpress, belajar seo instagram  
+https://twitter.com/marzuki_id/status/1348097141634289666  Kursus Digital Marketing Jakarta. Info WA 0812 1345 587
+https://twitter.com/marzuki_id/status/1347385424562409476 Kursus seo terbaik di jakarta, informasi 0812 1345 587
+https://twitter.com/marzuki_id/status/1347169796501094400 Kursus seo jakarta timur, info 0812-1345-587
+
+Starting from ₹7649! Radisson Blu Hotel Guwahati Room Price
+https://www.facebook.com/events/896237581427190/896237688093846/?active_tab=about
+https://www.facebook.com/events/896237581427190/896237634760518/?active_tab=about
+https://www.facebook.com/events/896237581427190/896237718093843/?active_tab=about
+https://www.facebook.com/events/896237581427190/896237638093851/?active_tab=about
+https://www.facebook.com/events/896237581427190/896237731427175/?active_tab=about
+https://www.facebook.com/events/896237581427190/896237728093842/?active_tab=about
+https://www.facebook.com/events/896237581427190/896237611427187/?active_tab=about
+https://www.facebook.com/events/896237581427190/896237644760517/?active_tab=about
+
+Discount!!! - Trident Hotel Bandra Kurla BKC Mumbai
+https://www.facebook.com/events/744962117124761/744962147124758/?active_tab=about
+https://www.facebook.com/events/744962117124761/744962150458091/?active_tab=about
+https://www.facebook.com/events/744962117124761/744962230458083/?active_tab=about
+https://www.facebook.com/events/744962117124761/744962183791421/?active_tab=about
+
+Cheap hotels in Istanbul, Turkey
+Tune Hotel KLIA Aeropolis, Sepang, Malaysia
+Tune Hotel KLIA Aeropolis, Sepang, Malaysia
+Bulgari Resort Bali
+Six Senses Uluwatu Bali
+Percutian Bajet Ke Krabi - Tips Melancong
+
+https://docs.google.com/document/d/e/2PACX-1vQprUB0PCuGz6ftfcKu4NPuCydkmZB-ft2ps67KDGFMoB4WhllEGJ_0mOZ7tq4KqPu82TA_ZL3NzfI3/pub
+https://docs.google.com/presentation/d/e/2PACX-1vRSYogUxs_sEAWru2AGS_dqvSdpcFUMJYo9443y_Ktk06M2VK17hpGbVuBZabqm5Gd59FbWI36YrGIF/pub?slide=id.p
+https://tawaranterbaik.page.link/tune-hotel-klia-klia2
+https://bestoffer.page.link/bvlgari-resort-bali
+https://bestoffer.page.link/six-senses-uluwatu-bali
+https://modelburnbook.tumblr.com/post/712484541066084352/percutian-bajet-ke-krabi
+
+A Perfect Getaway: Away Bali Legian Camakila Reviews
+https://docs.google.com/document/d/1gSrN3ISZ2YWqn_Vv4WuFjNHB8SXWOdR3bRvAixEuRIk/edit#heading=h.vztk3o1cvz7o
+https://docs.google.com/document/d/e/2PACX-1vRlpj0zD8PZRKlWFj_JedS92edXxccJsFsovTI3jgRkE8_nImCdHIMEH9I_XIhnh8hCxMUJMd_NCH1A/pub
+
+Montigo Resort Nongsa Batam Review, Montigo Resort Batam Package, Best Batam Resorts, How To Get To Montigo Resort Batam, What To Do At Montigo Resort
+https://www.instagram.com/maklumathomestay/
+https://www.instagram.com/p/CqkfggFBV2t/
+https://www.instagram.com/p/Cqh1-5lJRQx/
+https://www.instagram.com/p/CJtZ_WoAyRo/
+https://www.instagram.com/p/CC5ECLtHcUS/
+https://www.instagram.com/p/B9cVHHunWoO/
+https://www.instagram.com/p/B9EdpqfA20x/
+https://www.instagram.com/p/B8ifH_iAJ2B/
+https://www.instagram.com/p/B2L9ZLAABnl/
+https://www.instagram.com/p/B2L1pkIAIrf/
+
+<hr/>
