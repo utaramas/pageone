@@ -750,3 +750,22 @@ I will do mobile app localization, I provide app localization services to Indone
 #localization #customerservice #businessstrategy #applocalization #websitetranslation #translationmanagement #businessexpansion #websitelocalization #mobileapplocalization #belocal #beglobal #translationservice #websitetranslation #gamelocalization #application #mobileapp #translation #Download #downloadtheapp #AppStore #Google #GooglePlayStore
 
 <hr/>
+
+### Candle Break Level 1 aka CB1 for MT5
+
+Candle Break Level 1 aka CB1 for MT5      
+ Indicators  Muntarko Wendri Ciptonost Mm Version: 2.0 Updated: 15 April 2022 
+CB1 is introduced in FIBO MUSANG strategy
+
+Candle Break 1(CB1) concept:
+- CB1 is the first support or resistance should be broken as an signal for initial trend change.
+- If the market trend is about to change without break the CB1, means the change is temporary.
+- CB1 break give stronger market direction.
+
+CB1 conditions:
+1. When trend is going down, new higher hi appear after previous hi
+2. When trend is going up, new lower low appear after previous low.
+
+CB1 indicator also suitable as a confirmation signal. It work stronger when combined with other indicator such BBMA, Bollinger Band, Trend Channel Break, RSI oversold and overbought, etc.
+
+<hr/>
