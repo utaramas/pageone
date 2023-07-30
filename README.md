@@ -769,3 +769,15 @@ CB1 conditions:
 CB1 indicator also suitable as a confirmation signal. It work stronger when combined with other indicator such BBMA, Bollinger Band, Trend Channel Break, RSI oversold and overbought, etc.
 
 <hr/>
+
+### Teach Child How To Read - Teach A Child How To Read
+
+Teach Child How To Read - Teach A Child How To Read
+
+https://www.abris-box-chevaux.fr/include/rss/scripts/magpie_debug.php?url=https://nitter.moomoo.me/CHILDREAD11/rss
+http://www.sahten.com/magpierss/scripts/magpie_slashbox.php?rss_url=https://nitter.moomoo.me/CHILDREAD11/rss
+http://cotes-de-la-moliere.com/magpierss/scripts/magpie_simple.php?url=https://nitter.moomoo.me/CHILDREAD11/rss
+http://cktrappes.org/magpierss/scripts/magpie_simple.php?url=https://nitter.moomoo.me/CHILDREAD11/rss
+http://rep.morriscode.ca/rss/scripts/magpie_debug.php?url=https://nitter.moomoo.me/CHILDREAD11/rss
+
+<hr/>
