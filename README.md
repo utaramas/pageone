@@ -781,3 +781,15 @@ http://cktrappes.org/magpierss/scripts/magpie_simple.php?url=https://nitter.moom
 http://rep.morriscode.ca/rss/scripts/magpie_debug.php?url=https://nitter.moomoo.me/CHILDREAD11/rss
 
 <hr/>
+
+### marzuki_id RSS
+
+marzuki_id RSS
+
+https://www.abris-box-chevaux.fr/include/rss/scripts/magpie_debug.php?url=https://nitter.moomoo.me/marzuki_id/rss
+http://www.sahten.com/magpierss/scripts/magpie_slashbox.php?rss_url=https://nitter.moomoo.me/marzuki_id/rss
+http://cotes-de-la-moliere.com/magpierss/scripts/magpie_simple.php?url=https://nitter.moomoo.me/marzuki_id/rss
+http://cktrappes.org/magpierss/scripts/magpie_simple.php?url=https://nitter.moomoo.me/marzuki_id/rss
+http://rep.morriscode.ca/rss/scripts/magpie_debug.php?url=https://nitter.moomoo.me/marzuki_id/rss
+
+<hr/>
