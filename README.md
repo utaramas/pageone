@@ -830,3 +830,19 @@ Untuk OP sell
 4. Parabolic keluar dari atas
 
 <hr/>
+
+### Khusus pemilik akun FXPrimus yang masih leverage 1:500
+
+Khusus pemilik akun FXPrimus yang masih leverage 1:500 bisa mengirim email ke support@fxprimus.com
+
+Subject: Ganti Leverage 
+Isi:
+Mohon untuk menaikan leverage 1:500 menjadi 1:1000 untuk id berikut:
+User ID: 
+MT4 ID:
+User Name:
+Demikian terimakasih.
+Nama 
+Bisa menggunakan bahasa Indonesia/Inggris
+
+<hr/>
