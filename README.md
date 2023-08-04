@@ -846,3 +846,24 @@ Nama
 Bisa menggunakan bahasa Indonesia/Inggris
 
 <hr/>
+
+### REENTRY + FRACTAL
+
+Abdullah Fakhri, Assalamualaikum, REENTRY + FRACTAL. August 4 2023
+
+Tf D1 pair GBP/CHF ni kelihatan setup reentry sell pertemuan 3 (Ma5,10 + Mid Bb).
+
+Saya guna indi practal ni untuk filter retracement lower high di D1 telah berakhir.
+
+Hari ini saya nampak ada peluang setup reentry sell di H4. 
+Untuk confirmation entry pula saya nak tunggu sehingga munculnya csak sell di H1. Selagi tak muncul, selagi tu price boleh naik lagi dan membatalkan setup reentry sell H4 ini.
+
+Stoploss di atas previous high H1.
+TP pula di Low Bb tf D1.
+
+RRR sekitar 1 : 2 (Risk 0.5%, Reward 1%) #InsyaAlah 
+#BbmaOmaAlly
+#ReentryH4SetelahBerlakunyaReentryD1
+#1% BETTER
+
+<hr/>
