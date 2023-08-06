@@ -794,9 +794,9 @@ http://rep.morriscode.ca/rss/scripts/magpie_debug.php?url=https://nitter.moomoo.
 
 <hr/>
 
-### Dasar Forex Trading Niken
+### Dasar Forex Trading Niken Tantyo Sudharmono
 
-Dasar Forex Trading Niken
+Dasar Forex Trading Niken Tantyo Sudharmono
 ======-------======
 
 Setting indikator 
