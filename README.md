@@ -73,7 +73,7 @@ Lokasi tidak jauh dari Gereja HKBP Cibubur Jakarta Timur.
 
 <hr/>
 
-### 0816 9949 81 - Kursus Internet Marketing & SEO Jakarta Timur
+### WA 0816 9949 81 - Kursus Internet Marketing & SEO Jakarta Timur
 
 Lokasi kursus dekat Perumahan Cibubur Indah II, Jakarta Timur.
 
@@ -83,7 +83,7 @@ Lokasi kursus dekat Perumahan Cibubur Indah II, Jakarta Timur.
 
 <hr/>
 
-### Kursus Digital Marketing Jakarta. Info WA 0812 1345 587 
+### Kursus Digital Marketing Jakarta. Info WA 0816 9949 81 
 
 100 meter dari SMK Otomindo Cibubur Jakarta Timur
 
