@@ -99,7 +99,7 @@ Berlokasi 100 meter dari SMA Chartar Buana Cibubur Jakarta Timur. Mudah di jangk
 
 <hr/>
 
-### Kursus SEO Jakarta Timur, info 0812-1345-587 
+### Kursus SEO Jakarta Timur, info WA 0816 9949 81 
 
 Mudah di jangkau dengan TransJakarta atau LRT Jabodebek, turun di dekat Taman Bunga Wiladatika, lalu lanjutkan dengan JakLINGKO jurusan Jambore - Pasar Rebo.
 
