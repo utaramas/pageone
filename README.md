@@ -113,7 +113,7 @@ Mudah di jangkau dengan TransJakarta atau LRT Jabodebek, turun di dekat Taman Bu
 
 <hr/>
 
-### Pelatihan SEO di Depok - Info 08121345587
+### Pelatihan SEO di Depok - Info WA 0816 9949 81
 
 Lokasi pelatihan optimasi mesin pencari tidak jauh dari DR Florist Kelapa Dua Depok.
 
