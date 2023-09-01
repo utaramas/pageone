@@ -211,7 +211,7 @@ Www.Bpjsketenagakerjaan.Go.Id Di, Www.Bpjsketenagakerjaan.Go.Id Tracking
 
 ### Jasa Pencairan BPJS Tanpa Paklaring, Biro Jasa Pencairan Bpjs Ketenagakerjaan
 
-WA 0812 134 5587 Jasa Pencairan BPJS Tanpa Paklaring, Biro Jasa Pencairan Bpjs Ketenagakerjaan, Urus Pencairan BPJS TK
+WA 0816 9949 81 Jasa Pencairan BPJS Tanpa Paklaring, Biro Jasa Pencairan Bpjs Ketenagakerjaan, Urus Pencairan BPJS TK
 
 https://www.facebook.com/events/1562160004192662/1562160170859312/?active_tab=about
 https://www.facebook.com/events/1562160004192662/1562160177525978/?active_tab=about
