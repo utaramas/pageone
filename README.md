@@ -101,7 +101,7 @@ Berlokasi 100 meter dari SMA Chartar Buana Cibubur Jakarta Timur. Mudah di jangk
 
 ### Kursus SEO Jakarta Timur, info WA 0816 9949 81 
 
-Mudah di jangkau dengan TransJakarta atau LRT Jabodebek, turun di dekat Taman Bunga Wiladatika, lalu lanjutkan dengan JakLINGKO jurusan Jambore - Pasar Rebo.
+Mudah di jangkau dengan TransJakarta atau LRT Jabodebek, turun di dekat Taman Bunga Wiladatika, lalu lanjutkan dengan JakLINGKO jurusan Jambore - Pasar Rebo, turun di bus stop Cibubur Indah II.
 
 [https://twitter.com/marzuki_id/status/1347169796501094400](https://twitter.com/marzuki_id/status/1347169796501094400)
 
