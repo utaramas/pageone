@@ -40,8 +40,8 @@ Lokasi <a href="https://dma.pages.dev/" target="_blank">training SEO Jakarta Tim
 3. Ramah buat pemula.
 
 Hubungi: Sdr. Marzuki
-&#128382; Tsel 0812-1345-587 --
-Link Whatsapp : KLIK <a href="https://wa.me/628121345587" rel="nofollow" target="_blank">https://wa.me/628121345587</a>
+&#128382; Tsel 0816-9949-81 --
+Link Whatsapp : KLIK <a href="https://wa.me/62816994981" rel="nofollow" target="_blank">https://wa.me/62816994981</a>
 
 #### Cari Training SEO Lokal di Google:
 
