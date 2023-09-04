@@ -9,7 +9,7 @@ Lumayan menantang memang menggunakan Github tanpa ikut komunitas pengguna Git.
 
 ![Perlunya komunitas pengguna Git di tanah air]({{ site.baseurl }}/images/pengalaman-belajar-github-otodidak-1024x535.png)
 
-Mimin belum tahu ada atau tidaknya <a href="https://dma.pages.dev" target="_blank">komunitas pengguna Git</a> di tanah air. Paling tidak kalau kamu menemukan masalah ada tempat buat bertanya dan berdiskusi.
+Mimin belum tahu ada atau tidaknya <a href="https://utaramas.github.io/pageone" target="_blank">komunitas pengguna Git</a> di tanah air. Paling tidak kalau kamu menemukan masalah ada tempat buat bertanya dan berdiskusi.
 
 Sebab memang butuh kesabaran juga sih dalam menggunakan Git. Apalagi kalau kamu memang memiliki passion koding dan digital marketing.
 

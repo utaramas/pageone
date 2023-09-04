@@ -23,7 +23,7 @@ Kelima, setelah mengikuti kelas / workshop, pengeluaran dari para nubi tersedot 
 
 ## Iklan GRATIS di Google dengan Optimasi Facebook Marketing
 
-Mari kita balikan keadaan tersebut. Kalau bisa GRATIS kenapa harus BAYAR? Kalau bisa ORGANIK mengapa harus BERIKLAN? Mari kita memanfaatkan <a href="https://dma.pages.dev" target="_blank">SEO Facebook</a>.
+Mari kita balikan keadaan tersebut. Kalau bisa GRATIS kenapa harus BAYAR? Kalau bisa ORGANIK mengapa harus BERIKLAN? Mari kita memanfaatkan <a href="https://utaramas.github.io/pageone" target="_blank">SEO Facebook</a>.
 
 Pertama, dengan menggunakan fitur <a href="https://www.facebook.com" rel="nofollow" target="_blank" >Facebook</a> gratisan saja sudah lebih dari cukup untuk menghasilkan pundi-pundi rupiah untuk jualan kamu. Beruntung banget kalau kamu mampir pada blog ini, sebab tulisan ini merupakan pengalaman langsung yang sudah mimin rasakan sendiri, alias bukan kata orang lain.
 

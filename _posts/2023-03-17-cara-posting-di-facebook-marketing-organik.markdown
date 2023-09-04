@@ -28,7 +28,7 @@ Maka, kamu tinggal mengalihkan kebiasaan kamu update status pada fb personal men
 
 ### Cara marketing jualan online di Facebook
 
-Banyak mentor yang mengajarkan cara jualan online di Facebook, hanya yang jarang dibahas cara <a href="https://dma.pages.dev" target="_blank">SEO Facebook</a>, padahal dia sangat powerfull.
+Banyak mentor yang mengajarkan cara jualan online di Facebook, hanya yang jarang dibahas cara <a href="https://utaramas.github.io/pageone" target="_blank">SEO Facebook</a>, padahal dia sangat powerfull.
 
 Gunakan kata kunci yang orang cari pada mesin cari google sebagai bagian nama halaman, deskripsi halaman, pada foto profil dan foto cover, setelan Impressum dan Produk.
 

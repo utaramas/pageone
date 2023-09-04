@@ -5,7 +5,7 @@ date:   2023-03-03 00:00:00 +0000
 author: "Marzuki"
 tags: github
 ---
-Tidak lama setelah membuat repository pertama menggunakan WordPress, belum pengalaman & kurang hati-hati, membuat <a href="https://dma.pages.dev" target="_blank">akun Github tersuspend.</a> Namanya juga otodidak.
+Tidak lama setelah membuat repository pertama menggunakan WordPress, belum pengalaman & kurang hati-hati, membuat <a href="https://utaramas.github.io/pageone" target="_blank">akun Github tersuspend.</a> Namanya juga otodidak.
 
 ![Pengalaman Akun Github Tersuspend]({{ site.baseurl }}/images/pengalaman-belajar-github-otodidak-1024x535.png)
 

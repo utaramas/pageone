@@ -9,7 +9,7 @@ Dapatkan LEADS & TRAFIK ORGANIK menuju website ANDA setelah mengikuti Training S
 
 ![Berpengalaman !!! Training SEO Jakarta Timur - Optimasi Website Anda Muncul di hasil pencarian Google, Yahoo, Bing, Yandex, Baidu - JVXQ+V7 Klp. Dua Wetan, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta]({{ site.baseurl }}/images/Berpengalaman-Training-SEO-Jakarta-Optimasi-Website-Anda-Muncul-di-Google.png) ***<u>Image via Canva</u>***
 
-Lokasi <a href="https://dma.pages.dev/" target="_blank">training SEO Jakarta Timur</a> berada 3,8 KM dari Exit Tol Buperta Cibubur Jalan Tol Jagorawi. Anda bisa lanjut menggunakan angkutan umum JAK LINGKO JAK73 jurusan Jambore Cibubur – Pasar Rebo. Lalu turun di Bus Stop Cibubur Indah II, Jl. Rawa Bola.
+Lokasi <a href="https://utaramas.github.io/pageone" target="_blank">training SEO Jakarta Timur</a> berada 3,8 KM dari Exit Tol Buperta Cibubur Jalan Tol Jagorawi. Anda bisa lanjut menggunakan angkutan umum JAK LINGKO JAK73 jurusan Jambore Cibubur – Pasar Rebo. Lalu turun di Bus Stop Cibubur Indah II, Jl. Rawa Bola.
 
 ## Materi yang akan dipelajari di Training SEO wilayah Jakarta Timur
 

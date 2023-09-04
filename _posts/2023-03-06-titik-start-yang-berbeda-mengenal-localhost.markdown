@@ -6,7 +6,7 @@ author: "Marzuki"
 tags: github localhost
 ---
 
-Mungkin mimin termasuk yang belakangan <a href="https://dma.pages.dev" target="_blank">mengenal localhost</a>, padahal sudah mengenal istilah tersebut dari mulai tahun 2000an awal. Ya mimin tidak pernah menginstall WordPress di localhost sebab salah satu teman memberi tahu kalau ada penyedia hosting gratis. Waktu itu mimin menggunakan Byethost kemudian 000webhost, bukan di Localhost.
+Mungkin mimin termasuk yang belakangan <a href="https://utaramas.github.io/pageone" target="_blank">mengenal localhost</a>, padahal sudah mengenal istilah tersebut dari mulai tahun 2000an awal. Ya mimin tidak pernah menginstall WordPress di localhost sebab salah satu teman memberi tahu kalau ada penyedia hosting gratis. Waktu itu mimin menggunakan Byethost kemudian 000webhost, bukan di Localhost.
 
 ![Titik start yang berbeda Mengenal Localhost]({{ site.baseurl }}/images/pengalaman-belajar-github-otodidak-1024x535.png)
 

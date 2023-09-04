@@ -5,7 +5,7 @@ date:   2023-03-09 02:00:00 +0000
 author: "Marzuki"
 tags: SEO Indrak
 ---
-Inilah kesalahan terbesar saya saat mengoptimasi posting untuk keperluan SEO, tidak <a href="https://dma.pages.dev" target="_blank">memahami Search Intent/ User Intent padahal itu sangat penting.</a>
+Inilah kesalahan terbesar saya saat mengoptimasi posting untuk keperluan SEO, tidak <a href="https://utaramas.github.io/pageone" target="_blank">memahami Search Intent/ User Intent padahal itu sangat penting.</a>
 
 ![Pentingnya Search Intent Saat Membuat Artikel/ Posting]({{ site.baseurl }}/images/Pentingnya-Search-Intent-Saat-Membuat-Artikel.png)***Image via Canva***
 
