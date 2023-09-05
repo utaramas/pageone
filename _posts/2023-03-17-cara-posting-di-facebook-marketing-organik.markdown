@@ -34,6 +34,8 @@ Gunakan kata kunci yang orang cari pada mesin cari google sebagai bagian nama ha
 
 Untuk membuat foto profil (logo) dan foto cover kita akan menggunakan template logo dan template facebook cover dari canva.com.
 
+Sebaiknya memperhatikan dimensi ukuran gambar yang akan dibuat. Bagusnya Canva, mereka sudah menyiapkan ukuran yang kita butuhkan pada masing-masing template.
+
 Tanpa skill disain yang berat, kita bisa menghasilkan yang ukurannya sesuai aturan dari FB, dan yang paling penting ramah mesin pencari Google.
 
 Kamu bisa menyimpan gambar yang sudah dibuat dengan format PNG atau JPEG.
