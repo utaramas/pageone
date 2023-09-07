@@ -45,4 +45,4 @@ Ini juga berlaku untuk admin grup Facebook, kamu bisa manfaatkan tips ini untuk 
 1. Grup bersifat publik.
 2. Manfaatkan sekitar 144 karakter pertama isi deksripsi grup FB kamu.
 
-Demikianlah seri tulisan mengenai Facebook Marketing yang berpeluang muncul di hasil pencarian Google. Masukan dan saran dari Anda sangat berarti.
+Demikianlah seri tulisan mengenai Facebook Marketing yang berpeluang muncul di hasil pencarian search engine seperti Google. Masukan dan saran dari Anda sangat berarti.
