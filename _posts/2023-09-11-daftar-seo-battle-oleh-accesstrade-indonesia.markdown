@@ -8,7 +8,7 @@ tags: SEO
 
 Salah satu teman DM Ig saya, menginformasikan adanya SEO Battle oleh Accesstrade Indonesia. Kemudian saya membaca lebih lengkap informasi melalui link yang tercantum. Saya memutuskan untuk mengikutinya.
 
-## Latar belakang belajar Daftar SEO Battle oleh Accesstrade Indonesia
+## Latar belakang daftar SEO Battle oleh Accesstrade Indonesia
 
 ![Daftar SEO Battle oleh Accesstrade Indonesia]({{ site.baseurl }}/images/pengalaman-belajar-github-otodidak-1024x535.png)
 
