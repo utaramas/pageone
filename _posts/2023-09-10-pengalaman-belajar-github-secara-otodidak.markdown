@@ -12,14 +12,18 @@ Puih, lelahnya belajar github sendirian. Kali ini mimin mau share pengalaman bel
 
 Postingan ini juga untuk menambah commit baru di github ya 🙂
 
-**Latar belakang belajar github**
+## Latar belakang belajar github
 
 Alkisah mimin sedang mencari hosting gratis buat wordpress selain 000webhost. Browsing-browsing, ketemu kalau github bisa untuk tempat hosting wp kita walaupun sifatnya statis. Untuk pengolahannya sendiri memerlukan yang namanya server di localhost alias komputer/laptop kita sendiri.
 
 Mulailah mimin mengunduh WAMP. Proses instalasi wp nya sendiri tidak dimulai dari awal sebab mimin punya ide untuk mengupload hasil backup wp terdahulu. Ternyata bisa juga localhost untuk tempat backup.
 
-***Update Februari 2023***
+### Update Februari 2023
 
 Kesimpulan sementara saat ini, mimin beranggapan kalau menggunakan Wordpress mungkin bisa berjalan di Github, hanya mungkin gak bisa berjalan 100%.
 
 Mimin sekarang memilih menggunakan Jekyll serta html seperti pada postingan ini.
+
+### Update September 2023
+
+Menurut mimin baik WordPress maupun Jekyll, ada masalah konfigurasi. Mimin kembali menggunakan halaman bawaan Github walaupun memiliki Domain Authority yang kecil.
