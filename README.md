@@ -83,7 +83,7 @@ Lokasi kursus dekat Perumahan Cibubur Indah II, Jakarta Timur.
 
 <hr/>
 
-### Kursus Digital Marketing Jakarta. Info WA 0816 9949 81 
+### Kursus Digital Marketing Jakarta. Info WA 0816994981 
 
 100 meter dari SMK Otomindo Cibubur Jakarta Timur
 
