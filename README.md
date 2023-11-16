@@ -159,7 +159,7 @@ Berjarak 6 menit dari exit tol Karanggan Kec. Gn. Putri, Kabupaten Bogor, Jawa B
 
 ### Kursus SEO di Cibubur Jakarta Timur
 
-Lokasi pelatihan & kursus 100 meter dari Gereja HKBP Resort Cibubur, Jakarta Timur. WA 0816 9949 81.
+Lokasi pelatihan & kursus 100 meter dari Gereja HKBP Resort Cibubur, Jakarta Timur. WA 0816994981.
 
 [https://sites.google.com/view/dmaseopageone/kursus-internet-marketing-di-cibubur](https://sites.google.com/view/dmaseopageone/kursus-internet-marketing-di-cibubur)
 
