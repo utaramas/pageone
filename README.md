@@ -181,9 +181,9 @@ Workshop, Training Facebook Youtube Marketing di Kelapa Dua Wetan, Jakarta Timur
 
 <hr/>
 
-### WA 0816 9949 81 - Pencairan & Mencairkan Saldo BPJS Ketenagakerjaan
+### Pencairan & Mencairkan Saldo BPJS Ketenagakerjaan
 
-WA 0816 9949 81 - Berapa Iuran Bpjs Ketenagakerjaan, Bpjs, Bpjs Kesehatan, Bpjs Ketenagakerjaan, Bpjs Ketenagakerjaan Balikpapan. 
+Berapa Iuran Bpjs Ketenagakerjaan, Bpjs, Bpjs Kesehatan, Bpjs Ketenagakerjaan, Bpjs Ketenagakerjaan Balikpapan. 
 
 Bpjs Ketenagakerjaan Cek Saldo, Bpjs Ketenagakerjaan Online, Bpjs Login, Bpjsketenagakerjaan.Go.Id, Bsu.Bpjs Ketenagakerjaan, Cara Cek Bpjs Ketenagakerjaan.
 
