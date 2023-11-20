@@ -659,7 +659,7 @@ https://twitter.com/marzuki_id/status/1609710891167256576 Cara menghindari strok
 https://twitter.com/marzuki_id/status/1593491648247345152 Cara agar tidak gamon, Cara ga gamon 
 https://twitter.com/marzuki_id/status/1353021424739475457 Belajar seo pemula, belajar seo wordpress, belajar seo instagram  
 https://twitter.com/marzuki_id/status/1348097141634289666  Kursus Digital Marketing Jakarta. Info WA 0816994981
-https://twitter.com/marzuki_id/status/1347385424562409476 Kursus seo terbaik di jakarta, informasi 0812 1345 587
+https://twitter.com/marzuki_id/status/1347385424562409476 Kursus seo terbaik di jakarta, informasi 0816994981
 https://twitter.com/marzuki_id/status/1347169796501094400 Kursus seo jakarta timur, info 0812-1345-587
 
 Starting from ₹7649! Radisson Blu Hotel Guwahati Room Price
