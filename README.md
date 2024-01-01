@@ -872,6 +872,6 @@ RRR sekitar 1 : 2 (Risk 0.5%, Reward 1%) #InsyaAlah
 
 Pelatihan Pra Purnabakti - Persiapan Pensiun jakarta
 
-https://www.canva.com/design/DAF34yvwL0k/S7ufzWcsjWYTLx6IWB2-8A/edit
+https://www.canva.com/design/DAF34yvwL0k/48XpAQ3AVqbjUnvqV2O_Nw/view?utm_content=DAF34yvwL0k&utm_campaign=designshare&utm_medium=link&utm_source=editor#4
 
 <hr/>
