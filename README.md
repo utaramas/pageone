@@ -867,3 +867,11 @@ RRR sekitar 1 : 2 (Risk 0.5%, Reward 1%) #InsyaAlah
 #1% BETTER
 
 <hr/>
+
+### Pelatihan Pra Purnabakti - Persiapan Pensiun jakarta
+
+Pelatihan Pra Purnabakti - Persiapan Pensiun jakarta
+
+https://www.canva.com/design/DAF34yvwL0k/S7ufzWcsjWYTLx6IWB2-8A/edit
+
+<hr/>
