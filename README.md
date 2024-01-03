@@ -883,3 +883,11 @@ HUB WA 0816-994-981 - Pelatihan Pra Purnabakti, Persiapan Pensiun Jakarta.
 https://www.canva.com/design/DAF34xlXHPM/QPgp6mW8NY0X9mpm0wF9gw/view?utm_content=DAF34xlXHPM&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 <hr/>
+
+### Bisakah Kamu Rangking di Google Dengan Medium ?
+
+Bisakah Kamu Rangking di Google Dengan Medium ? 
+
+https://www.canva.com/design/DAF3k6LzP0g/V-orwvYg0PqIQWwuCVz_fw/view?utm_content=DAF3k6LzP0g&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
+<hr/>
