@@ -875,3 +875,11 @@ Pelatihan Pra Purnabakti - Persiapan Pensiun jakarta
 https://www.canva.com/design/DAF34yvwL0k/48XpAQ3AVqbjUnvqV2O_Nw/view?utm_content=DAF34yvwL0k&utm_campaign=designshare&utm_medium=link&utm_source=editor#4
 
 <hr/>
+
+### HUB WA 0816-994-981 - Pelatihan Pra Purnabakti, Persiapan Pensiun Jakarta
+
+HUB WA 0816-994-981 - Pelatihan Pra Purnabakti, Persiapan Pensiun Jakarta.
+
+https://www.canva.com/design/DAF34xlXHPM/QPgp6mW8NY0X9mpm0wF9gw/view?utm_content=DAF34xlXHPM&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
+<hr/>
