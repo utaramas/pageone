@@ -891,3 +891,11 @@ Bisakah Kamu Rangking di Google Dengan Medium ?
 https://www.canva.com/design/DAF3k6LzP0g/V-orwvYg0PqIQWwuCVz_fw/view?utm_content=DAF3k6LzP0g&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 <hr/>
+
+### WA 0816-994-981 - Pelatihan menjelang pensiun, training menjelang pensiun
+
+WA 0816-994-981 - Pelatihan menjelang pensiun, training menjelang pensiun. Memulai usaha menjelang pensiun, pelatihan pra pensiun, pelatihan masa persiapan pensiun. 
+
+https://www.canva.com/design/DAF3kwdLdHw/jMYW3y2dqzKkKHZM8lUeGg/view?utm_content=DAF3kwdLdHw&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
+<hr/>
