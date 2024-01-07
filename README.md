@@ -907,3 +907,11 @@ Karangan Bunga Depok, Karangan Bunga Depok 24 Jam, Karangan Bunga Duka Cita Depo
 https://www.canva.com/design/DAF3bTeyYiw/JdNsl782HVG_S_L5m1XR9w/view?utm_content=DAF3bTeyYiw&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 <hr/>
+
+### TERLARIS!!!, Pusat Toko Bunga Florist di Beji Depok - 0813-1530-9901 (Tsel)
+
+TERLARIS!!!, Pusat Toko Bunga Florist di Beji Depok - 0813-1530-9901 (Tsel). 
+
+https://www.canva.com/design/DAF2YVIUqBU/_Cxo_hdcgI86NP0G-5-Kbg/view?utm_content=DAF2YVIUqBU&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
+<hr/>
