@@ -931,3 +931,11 @@ TERBAIK!!!, Belajar SEO Malaysia - WA +62-816-994-981.
 https://www.canva.com/design/DAEUddJjUM4/watch
 
 <hr/>
+
+### Kursus Bisnis Online untuk Pensiunan di 2024
+
+Kursus Bisnis Online untuk Pensiunan di 2024. 
+
+https://www.canva.com/design/DAF5l70uTPs/Xka2w7WKwbUxMqXBzfNXKQ/view?utm_content=DAF5l70uTPs&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
+<hr/>
