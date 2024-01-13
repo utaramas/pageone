@@ -939,3 +939,11 @@ Kursus Bisnis Online untuk Pensiunan di 2024.
 https://www.canva.com/design/DAF5l70uTPs/Xka2w7WKwbUxMqXBzfNXKQ/view?utm_content=DAF5l70uTPs&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 <hr/>
+
+### Cara Memulai Bisnis di Usia Pensiun - Kursus Rekomendasi 2024
+
+Cara Memulai Bisnis di Usia Pensiun - Kursus Rekomendasi 2024. 
+
+https://www.canva.com/design/DAF5oy-cdGQ/H6VtsBgYcXB6ch_9iinn-Q/view?utm_content=DAF5oy-cdGQ&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
+<hr/>
