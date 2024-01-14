@@ -334,3 +334,11 @@ Cara Memulai Bisnis di Usia Pensiun - Kursus Rekomendasi 2024.
 [https://www.canva.com/design/DAF5oy-cdGQ/H6VtsBgYcXB6ch_9iinn-Q/view?utm_content=DAF5oy-cdGQ&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAF5oy-cdGQ/H6VtsBgYcXB6ch_9iinn-Q/view?utm_content=DAF5oy-cdGQ&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 <hr/>
+
+### Contoh Schema.org Event Valid 2024
+
+Contoh Schema.org Event Valid 2024. 
+
+[https://www.canva.com/design/DAF52YZeql4/oFP-ewYPCggnkiA4Yxgbww/view?utm_content=DAF52YZeql4&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAF52YZeql4/oFP-ewYPCggnkiA4Yxgbww/view?utm_content=DAF52YZeql4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
+<hr/>
