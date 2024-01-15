@@ -342,3 +342,11 @@ Contoh Schema.org Event Valid 2024.
 [https://www.canva.com/design/DAF52YZeql4/oFP-ewYPCggnkiA4Yxgbww/view?utm_content=DAF52YZeql4&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAF52YZeql4/oFP-ewYPCggnkiA4Yxgbww/view?utm_content=DAF52YZeql4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 <hr/>
+
+### PREMIUM!!! (IM3) 0816-994-1215 Sentra Jasa Pengemasan Produk Frozen Food Makanan Beku UMKM di Srengseng - Kembangan
+
+PREMIUM!!! (IM3) 0816-994-1215 Sentra Jasa Pengemasan Produk Frozen Food Makanan Beku UMKM di Srengseng - Kembangan. 
+
+[https://www.canva.com/design/DAF576FHPf0/hvCxVqOCcPCEjvuL8B6nSg/view?utm_content=DAF576FHPf0&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAF576FHPf0/hvCxVqOCcPCEjvuL8B6nSg/view?utm_content=DAF576FHPf0&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
+<hr/>
